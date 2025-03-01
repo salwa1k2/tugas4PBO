@@ -31,6 +31,7 @@ public class no3 {
             c = input.nextInt();
 
         } while (a <= 0 || b <= 0 || c <= 0 || a > b || b > c); 
+          
 
         int a2 = a * a;
         int b2 = b * b;
